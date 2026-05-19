@@ -4961,6 +4961,228 @@
       "pushed_at": "2026-05-17",
       "title": "数据中心运营商DayOne正考虑在新加坡和美国双重上市",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thg73b/my_team_built_ornn_a_complete_lifecycle_api_for/",
+      "pushed_at": "2026-05-19",
+      "title": "My team built Ornn — a complete life-cycle API for AI agent skills (open source, model-agnostic)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thfpib/what_ive_learned_about_indie_ios_distribution/",
+      "pushed_at": "2026-05-19",
+      "title": "What I've learned about indie iOS distribution after launching SnapSilo (building is the easy part)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thfnw3/we_shut_down_our_saas_after_growth_stalled_im/",
+      "pushed_at": "2026-05-19",
+      "title": "We shut down our SaaS after growth stalled. I'm trying to understand why it keeps happening to founders like us.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thd5u3/glia_localfirst_shared_memory_layer_sqlitevec/",
+      "pushed_at": "2026-05-19",
+      "title": "Glia – Local-first shared memory layer (SQLite-vec + FTS5 + Offline Knowledge Graph)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thcbfi/i_was_so_frustrated_with_my_messy_downloads/",
+      "pushed_at": "2026-05-19",
+      "title": "I was so frustrated with my messy Downloads folder I built an AI that organizes it automatically. Here's the free tool.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thgde6/i_built_a_free_tool_to_audit_your_site_against/",
+      "pushed_at": "2026-05-19",
+      "title": "I built a free tool to audit your site against Google's official AI Overview rules",
+      "score": 8
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+      "pushed_at": "2026-05-19",
+      "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
+      "pushed_at": "2026-05-19",
+      "title": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
+      "score": 7
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48189447",
+      "pushed_at": "2026-05-19",
+      "title": "Show HN: Nano-RAG – Agentic multi-hog retrieval without graph database",
+      "score": 6
+    },
+    {
+      "url": "https://blog.echen.io/p/flashattention-2-in-cute-from-scratch/",
+      "pushed_at": "2026-05-19",
+      "title": "Show HN: FlashAttention-2 in Cute, from Scratch",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th2f5w/21_gpus_benchmarked_running_a_small_tts_model/",
+      "pushed_at": "2026-05-19",
+      "title": "21 GPU's benchmarked running a small TTS model (vram peak: 5GB)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th8a43/we_have_subagents_at_home/",
+      "pushed_at": "2026-05-19",
+      "title": "We have sub-agents at home",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgxau6/llamacpp_mtp_support_landed_qwen36_27b_at_244_on/",
+      "pushed_at": "2026-05-19",
+      "title": "llama.cpp MTP support landed - Qwen3.6 27B at 2.44× on a Strix Halo, 2.17× on a RTX 3090 rig",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgis7s/qwen_36_27b_on_24gb_vram_setup_backend/",
+      "pushed_at": "2026-05-19",
+      "title": "Qwen 3.6 27B on 24GB VRAM setup: backend comparisons, quant choice and settings (llama.cpp, ik_llama.cpp, BeeLlama, vllm)",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th633w/club5060ti_followup_cleaner_rtx_5060_ti_local_llm/",
+      "pushed_at": "2026-05-19",
+      "title": "club-5060ti follow-up: cleaner RTX 5060 Ti local LLM recipes, benchmark explorer, and CUDA GPU compatibility notes",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thbzvf/rdna2_flash_attention_isnt_enabled_stock_i/",
+      "pushed_at": "2026-05-19",
+      "title": "RDNA2 flash attention isn’t enabled stock, I enabled it with this build and doubled my speed",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th0z6k/lemonade_v1051_an_mtp_rocm_713_quick_start_for/",
+      "pushed_at": "2026-05-19",
+      "title": "Lemonade v10.5.1: an MTP + ROCm 7.13 quick start for Strix Halo",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgk9y6/quantizing_mtp_kv_cache_free_lunch/",
+      "pushed_at": "2026-05-19",
+      "title": "Quantizing MTP KV Cache = free lunch?",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgobhj/psa_if_you_havent_updated_llamacpp_for_a_couple/",
+      "pushed_at": "2026-05-19",
+      "title": "PSA: If you haven’t updated Llama.cpp for a couple of days and find MTP to not be performing well, update llamacpp.",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "pushed_at": "2026-05-19",
+      "title": "Imbad0202/academic-research-skills",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "pushed_at": "2026-05-19",
+      "title": "HKUDS/CLI-Anything",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "pushed_at": "2026-05-19",
+      "title": "ggml-org/llama.cpp",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "pushed_at": "2026-05-19",
+      "title": "tech-leads-club/agent-skills",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "pushed_at": "2026-05-19",
+      "title": "BigBodyCobain/Shadowbroker",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "pushed_at": "2026-05-19",
+      "title": "humanlayer/12-factor-agents",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/NVlabs/Sana",
+      "pushed_at": "2026-05-19",
+      "title": "NVlabs/Sana",
+      "score": 7
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "pushed_at": "2026-05-19",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "pushed_at": "2026-05-19",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3814860909600261?f=rss",
+      "pushed_at": "2026-05-19",
+      "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3805660478184966?f=rss",
+      "pushed_at": "2026-05-19",
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3814695536336387?f=rss",
+      "pushed_at": "2026-05-19",
+      "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3810598875307780?f=rss",
+      "pushed_at": "2026-05-19",
+      "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3815910562569733?f=rss",
+      "pushed_at": "2026-05-19",
+      "title": "谷歌DeepMind创始人据悉为Anthropic早期投资人",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3815894101646853?f=rss",
+      "pushed_at": "2026-05-19",
+      "title": "月之暗面Kimi融资获国资加持，国智投等多家基金入场",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3815858397617671?f=rss",
+      "pushed_at": "2026-05-19",
+      "title": "“SportVision”完成天使+轮融资",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1666225?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-19",
+      "title": "MacBook Neo 杀疯了，英特尔派出「野猫」接招？",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1666146?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-19",
+      "title": "一个月烧掉 930 万元 Token 的人，也没烧出个答案",
+      "score": 7
     }
   ]
 }
