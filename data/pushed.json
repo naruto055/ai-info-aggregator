@@ -6605,6 +6605,216 @@
       "pushed_at": "2026-05-25",
       "title": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tnyyn6/im_an_architect_built_ncored_a_mac_and_windows/",
+      "pushed_at": "2026-05-26",
+      "title": "I'm an architect. Built Ncored, a Mac and Windows PDF editor, because Adobe lagged and froze on every CAD drawing. Ncored vs Adobe side-by-side video inside",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1toiad9/i_built_a_privacyfirst_email_companion_app/",
+      "pushed_at": "2026-05-26",
+      "title": "I built a privacy-first email companion app because I was tired of manually triaging my inbox",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1to7mvf/i_crawled_over_a_million_uk_venue_websites_to/",
+      "pushed_at": "2026-05-26",
+      "title": "I crawled over a million UK venue websites to build a local events search engine",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1to8mim/65k_with_ai_agents/",
+      "pushed_at": "2026-05-26",
+      "title": "$65k with AI Agents",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+      "pushed_at": "2026-05-26",
+      "title": "The pressure",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "pushed_at": "2026-05-26",
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/srijanpatel/arq-dashboard",
+      "pushed_at": "2026-05-26",
+      "title": "Show HN: ARQ Dashboard – web and TUI monitoring for Python's ARQ job queue",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/oeo/monkdev",
+      "pushed_at": "2026-05-26",
+      "title": "Show HN: Monkdev is a toolkit and methodology for coding with LLMs",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1togflk/prismml_just_released_binary_and_ternary_bonsai/",
+      "pushed_at": "2026-05-26",
+      "title": "PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to73op/okay_27b_made_me_a_believer/",
+      "pushed_at": "2026-05-26",
+      "title": "Okay 27B made me a believer",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnzalm/qwen35_35b_a3b_uncensored_heretic_native_mtp/",
+      "pushed_at": "2026-05-26",
+      "title": "Qwen3.5 35B A3B uncensored heretic Native MTP Preserved is Out Now With the Full 785 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1toah65/openmossteammossttsv15_hugging_face/",
+      "pushed_at": "2026-05-26",
+      "title": "OpenMOSS-Team/MOSS-TTS-v1.5 · Hugging Face",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tom98y/cactus_hybrid_router_gemma42b_can_match/",
+      "pushed_at": "2026-05-26",
+      "title": "Cactus Hybrid Router: Gemma4-2B can match Gemini-3.1-Flash-Lite by routing 15-55% of tasks to Gemini And Running The Rest Locally.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tokpoc/400_qwen_3627b_setup_dual_rtx_3060_3050_ts/",
+      "pushed_at": "2026-05-26",
+      "title": "$400 Qwen 3.6-27B Setup - Dual RTX 3060 - 30-50 t/s",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to00xl/strix_halo_users_a_rejected_pr_can_give_you_up_to/",
+      "pushed_at": "2026-05-26",
+      "title": "Strix Halo users, a rejected PR can give you up to 30% faster PP for MOEs.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tofv8o/i_made_a_windows_app_for_managing_llamacpp_in/",
+      "pushed_at": "2026-05-26",
+      "title": "I made a Windows app for managing llama.cpp in WSL/Ubuntu",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to1mey/skillopt_treats_markdown_skill_files_as_trainable/",
+      "pushed_at": "2026-05-26",
+      "title": "SkillOpt treats markdown skill files as trainable parameters with proper optimization machinery",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to0aet/qwen35_27b_uncensored_heretic_native_mtp/",
+      "pushed_at": "2026-05-26",
+      "title": "Qwen3.5 27B Uncensored Heretic Native MTP Preserved is Out Now With the Full 15 MTPs Preserved and Retained, Available in Safetensors, GGUFs, NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats!",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to8t53/harbor_v0419_vllmsglangllamacpp_launch/",
+      "pushed_at": "2026-05-26",
+      "title": "Harbor v0.4.19 - vllm/sglang/llama.cpp launch codex/claude/pi/opencode",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "pushed_at": "2026-05-26",
+      "title": "affaan-m/ECC",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "pushed_at": "2026-05-26",
+      "title": "anthropics/claude-cookbooks",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/moeru-ai/airi",
+      "pushed_at": "2026-05-26",
+      "title": "moeru-ai/airi",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "pushed_at": "2026-05-26",
+      "title": "hardikpandya/stop-slop",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "pushed_at": "2026-05-26",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "pushed_at": "2026-05-26",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "score": 8
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "pushed_at": "2026-05-26",
+      "title": "A reality check on the AI jobs hysteria",
+      "score": 7
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "pushed_at": "2026-05-26",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3825969453699970?f=rss",
+      "pushed_at": "2026-05-26",
+      "title": "机器人启蒙，需要一所能“犯错”的幼儿园",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3825882266407815?f=rss",
+      "pushed_at": "2026-05-26",
+      "title": "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3824179485233541?f=rss",
+      "pushed_at": "2026-05-26",
+      "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3826751104914308?f=rss",
+      "pushed_at": "2026-05-26",
+      "title": "AI眼镜新品频发，产业链追“光”逐“芯”",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3826734954648193?f=rss",
+      "pushed_at": "2026-05-26",
+      "title": "Quantinuum拟IPO募资10.5亿美元，此前列入美国政府量子计算支持计划",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3826733711872901?f=rss",
+      "pushed_at": "2026-05-26",
+      "title": "IREN斥资16亿美元从戴尔采购英伟达Blackwell系统",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1666435?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-26",
+      "title": "带摄像头的 AI 耳机能替代 iPhone 吗？我戴了 72 小时之后有了答案",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1666874?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-26",
+      "title": "用 Codex 优化网速狂飙 900Mbps？实测之后我发现了新的隐藏玩法",
+      "score": 6
     }
   ]
 }
