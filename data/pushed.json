@@ -6839,6 +6839,168 @@
       "pushed_at": "2026-05-27",
       "title": "用 Codex 优化网速狂飙 900Mbps？实测之后我发现了新的隐藏玩法",
       "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tpjaak/my_entire_saas_runs_on_6_tools_heres_the_stack/",
+      "pushed_at": "2026-05-28",
+      "title": "My entire SaaS runs on 6 tools, heres the stack",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tpldpc/i_opensourced_our_billing_stack_because_i_found/",
+      "pushed_at": "2026-05-28",
+      "title": "I open-sourced our billing stack because I found every AI startup I helped needed the same thing",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tp7hv2/i_vibecoded_20_landing_pages_for_local_businesses/",
+      "pushed_at": "2026-05-28",
+      "title": "I vibe-coded 20 landing pages for local businesses and DM'd them for free.",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/esmfold2",
+      "pushed_at": "2026-05-28",
+      "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+      "score": 9
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+      "pushed_at": "2026-05-28",
+      "title": "The Codex feature that works while you sleep",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "pushed_at": "2026-05-28",
+      "title": "sqlite AGENTS.md",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/sjhalani7/vaen",
+      "pushed_at": "2026-05-28",
+      "title": "Show HN: VAEN – Package and import portable AI coding-agent Harnesses",
+      "score": 5
+    },
+    {
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "pushed_at": "2026-05-28",
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/Coral-Bricks-AI/coral-ai/tree/main/claude-code-token-xray",
+      "pushed_at": "2026-05-28",
+      "title": "Show HN: Claude Code's $200 plan is a 17× subsidy on the raw API",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/",
+      "pushed_at": "2026-05-28",
+      "title": "Qwen3.6 huge quality gain from Q4 to Q6 for coding agent",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpawlm/swerebench_leaderboard_march_april_and_may_2026/",
+      "pushed_at": "2026-05-28",
+      "title": "SWE-rebench Leaderboard (March, April and May 2026): GPT-5.5, Opus 4.7, Cursor (Composer 2.5), Kimi K2.6 and More",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpcv2q/260kparam_llm_running_on_an_emulated_90s_cpu/",
+      "pushed_at": "2026-05-28",
+      "title": "260K-param LLM running on an emulated 90s CPU inside an 18-year-old RTOS",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/",
+      "pushed_at": "2026-05-28",
+      "title": "I ran 8 open-weight models as agents in a persistent MMO for 10 days. Here's the 93k event dataset and some things that I learned",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/",
+      "pushed_at": "2026-05-28",
+      "title": "Stop traumatizing AI into loops and turn hallucinations into an honest \"I don't know!\" by being NICE to them (Proof of Concept, Research, I don't want to sell anything)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpfw50/inferencing_at_1033_ts_on_qwen_35_35b_on_a_300/",
+      "pushed_at": "2026-05-28",
+      "title": "Inferencing at 10.33 t/s on Qwen 3.5 35B on a $300 laptop",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp4u0u/fused_moe_dispatch_kernel_in_pure_triton_89131_of/",
+      "pushed_at": "2026-05-28",
+      "title": "Fused MoE dispatch kernel in pure Triton: 89-131% of Megablocks, runs on AMD with zero code changes",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tovx7i/folks_running_qwen_36_27b_for_agentic_work_do_you/",
+      "pushed_at": "2026-05-28",
+      "title": "Folks running qwen 3.6 27b for agentic work. Do you dare to use q4_k_m?",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "pushed_at": "2026-05-28",
+      "title": "hardikpandya/stop-slop",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/thedotmack/claude-mem",
+      "pushed_at": "2026-05-28",
+      "title": "thedotmack/claude-mem",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "pushed_at": "2026-05-28",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "pushed_at": "2026-05-28",
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3827658881323649?f=rss",
+      "pushed_at": "2026-05-28",
+      "title": "腾讯游戏的One More Thing，是AI",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3826390617870984?f=rss",
+      "pushed_at": "2026-05-28",
+      "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3826385821192841?f=rss",
+      "pushed_at": "2026-05-28",
+      "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3827704117891717?f=rss",
+      "pushed_at": "2026-05-28",
+      "title": "IREN豪掷16亿美元采购戴尔AI服务器，剑指44亿美元年收入目标",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1667076?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-28",
+      "title": "最好的手机 AI，是仿佛没有 AI｜AI 器物志",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1666975?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-28",
+      "title": "小米：请叫我 Token 价格屠夫",
+      "score": 6
     }
   ]
 }
