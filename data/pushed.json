@@ -6815,6 +6815,156 @@
       "pushed_at": "2026-05-26",
       "title": "用 Codex 优化网速狂飙 900Mbps？实测之后我发现了新的隐藏玩法",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tpjaak/my_entire_saas_runs_on_6_tools_heres_the_stack/",
+      "pushed_at": "2026-05-27",
+      "title": "My entire SaaS runs on 6 tools, heres the stack",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tp7hv2/i_vibecoded_20_landing_pages_for_local_businesses/",
+      "pushed_at": "2026-05-27",
+      "title": "I vibe-coded 20 landing pages for local businesses and DM'd them for free.",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/esmfold2",
+      "pushed_at": "2026-05-27",
+      "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+      "score": 7
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+      "pushed_at": "2026-05-27",
+      "title": "The Codex feature that works while you sleep",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "pushed_at": "2026-05-27",
+      "title": "sqlite AGENTS.md",
+      "score": 7
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "pushed_at": "2026-05-27",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "score": 6
+    },
+    {
+      "url": "https://www.zoonk.com/",
+      "pushed_at": "2026-05-27",
+      "title": "Show HN: Open-source alternative to Duolingo for learning anything",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/",
+      "pushed_at": "2026-05-27",
+      "title": "Qwen3.6 huge quality gain from Q4 to Q6 for coding agent",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpawlm/swerebench_leaderboard_march_april_and_may_2026/",
+      "pushed_at": "2026-05-27",
+      "title": "SWE-rebench Leaderboard (March, April and May 2026): GPT-5.5, Opus 4.7, Cursor (Composer 2.5), Kimi K2.6 and More",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpcv2q/260kparam_llm_running_on_an_emulated_90s_cpu/",
+      "pushed_at": "2026-05-27",
+      "title": "260K-param LLM running on an emulated 90s CPU inside an 18-year-old RTOS",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/",
+      "pushed_at": "2026-05-27",
+      "title": "Stop traumatizing AI into loops and turn hallucinations into an honest \"I don't know!\" by being NICE to them (Proof of Concept, Research, I don't want to sell anything)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpfw50/inferencing_at_1033_ts_on_qwen_35_35b_on_a_300/",
+      "pushed_at": "2026-05-27",
+      "title": "Inferencing at 10.33 t/s on Qwen 3.5 35B on a $300 laptop",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp9ian/realignedqwen35_release/",
+      "pushed_at": "2026-05-27",
+      "title": "ReAligned-Qwen3.5 Release",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp4u0u/fused_moe_dispatch_kernel_in_pure_triton_89131_of/",
+      "pushed_at": "2026-05-27",
+      "title": "Fused MoE dispatch kernel in pure Triton: 89-131% of Megablocks, runs on AMD with zero code changes",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpkn5p/running_gemma4_31bit_on_vllm_0210_a100s_bad/",
+      "pushed_at": "2026-05-27",
+      "title": "Running Gemma4 31b-it on vLLM 0.21.0 A100s (bad quality or what am I doing wrong)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp82lt/hugging_face_dataset_lineage_explorer/",
+      "pushed_at": "2026-05-27",
+      "title": "Hugging Face Dataset Lineage Explorer",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tovx7i/folks_running_qwen_36_27b_for_agentic_work_do_you/",
+      "pushed_at": "2026-05-27",
+      "title": "Folks running qwen 3.6 27b for agentic work. Do you dare to use q4_k_m?",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "pushed_at": "2026-05-27",
+      "title": "Leonxlnx/taste-skill",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/twentyhq/twenty",
+      "pushed_at": "2026-05-27",
+      "title": "twentyhq/twenty",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/thedotmack/claude-mem",
+      "pushed_at": "2026-05-27",
+      "title": "thedotmack/claude-mem",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "pushed_at": "2026-05-27",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "pushed_at": "2026-05-27",
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "pushed_at": "2026-05-27",
+      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3827658881323649?f=rss",
+      "pushed_at": "2026-05-27",
+      "title": "腾讯游戏的One More Thing，是AI",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3827704117891717?f=rss",
+      "pushed_at": "2026-05-27",
+      "title": "IREN豪掷16亿美元采购戴尔AI服务器，剑指44亿美元年收入目标",
+      "score": 8
     }
   ]
 }
