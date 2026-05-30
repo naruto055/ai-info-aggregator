@@ -7445,6 +7445,168 @@
       "pushed_at": "2026-05-29",
       "title": "“易启未来”完成数千万元A轮融资",
       "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts483v/built_a_linkedin_alternative_this_week_500_users/",
+      "pushed_at": "2026-05-30",
+      "title": "Built a LinkedIn alternative this week. 500 users in 5 days.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts9db2/working_on_something_really_cool_share_it_here/",
+      "pushed_at": "2026-05-30",
+      "title": "working on something REALLY cool? share it here",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts93bn/website_gets_about_1000_visitors_daily_but_i_am/",
+      "pushed_at": "2026-05-30",
+      "title": "Website gets about 1000 visitors daily, but I am struggling to monetize",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tsczgq/solo_side_project_update_228k_clicks_118m/",
+      "pushed_at": "2026-05-30",
+      "title": "Solo side project update: 22.8k clicks, 1.18M impressions, and a lot of questions",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts9be6/i_built_a_daily_ai_brief_that_tracks_every_saas/",
+      "pushed_at": "2026-05-30",
+      "title": "I built a daily AI brief that tracks every SaaS product release and tells you which ones actually matter",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts6moh/ive_been_qatesting_indie_and_aibuilt_sites_this/",
+      "pushed_at": "2026-05-30",
+      "title": "I've been QA-testing indie and AI-built sites this week — the same handful of things are broken on almost all of them",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "pushed_at": "2026-05-30",
+      "title": "How we contain Claude across products",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+      "pushed_at": "2026-05-30",
+      "title": "I Am Retiring from Tech to Live Offline",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/thaw-ai/thaw",
+      "pushed_at": "2026-05-30",
+      "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+      "pushed_at": "2026-05-30",
+      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/",
+      "pushed_at": "2026-05-30",
+      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsbl9j/cost_analysis_of_my_64k_local_llm_server/",
+      "pushed_at": "2026-05-30",
+      "title": "Cost Analysis of my $6.4k Local LLM Server",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
+      "pushed_at": "2026-05-30",
+      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/",
+      "pushed_at": "2026-05-30",
+      "title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts94t8/has_anyone_experimented_with_stabilizing_low/",
+      "pushed_at": "2026-05-30",
+      "title": "Has anyone experimented with stabilizing low quant models with lower temp and top p?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trw5ym/fulloch_v2_100_local_voice_assistant_for_home/",
+      "pushed_at": "2026-05-30",
+      "title": "Fulloch V2: 100% Local Voice Assistant for Home Assistant & Obsidian (Runs on 16GB VRAM)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trq8kq/this_new_moss_tts_15_is_damn_good_with_voice/",
+      "pushed_at": "2026-05-30",
+      "title": "this new Moss tts 1.5 is damn good with voice cloning",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts049w/cant_get_over_250tps_on_rtx5090_with_qwen354b/",
+      "pushed_at": "2026-05-30",
+      "title": "Can't get over 250TPS on RTX5090 with Qwen3.5-4B",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts072f/anybody_got_llamaswap_working_answering/",
+      "pushed_at": "2026-05-30",
+      "title": "anybody got llama-swap working answering concurrent requests for a single model?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryukc/qwen_36_coding_choice27b_vs_35b_quants/",
+      "pushed_at": "2026-05-30",
+      "title": "Qwen 3.6 coding choice–27B vs 35B quants",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code",
+      "pushed_at": "2026-05-30",
+      "title": "anthropics/claude-code",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/run-llama/liteparse",
+      "pushed_at": "2026-05-30",
+      "title": "run-llama/liteparse",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "pushed_at": "2026-05-30",
+      "title": "galilai-group/stable-worldmodel",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Biohub/esm",
+      "pushed_at": "2026-05-30",
+      "title": "Biohub/esm",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "pushed_at": "2026-05-30",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "pushed_at": "2026-05-30",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3831135917107075?f=rss",
+      "pushed_at": "2026-05-30",
+      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+      "score": 6
     }
   ]
 }
