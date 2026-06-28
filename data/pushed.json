@@ -11633,6 +11633,144 @@
       "pushed_at": "2026-06-27",
       "title": "美图一口气发了8款产品，我挨个用完发现它们在干同一件事",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uhdgi4/i_gave_an_ai_agent_its_own_wallet_and_evm_l1/",
+      "pushed_at": "2026-06-28",
+      "title": "I gave an AI agent its own wallet and EVM L1 chain with tokens and let it create + LP a token by itself. Agents-Coin MCP",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uhb3t7/i_made_a_tool_to_name_your_next_side_project_and/",
+      "pushed_at": "2026-06-28",
+      "title": "I made a tool to name your next side project and check what domains are available in one go",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uhcy87/most_of_my_x_posts_went_nowhere_until_i_worked/",
+      "pushed_at": "2026-06-28",
+      "title": "most of my X posts went nowhere until i worked out the pattern. ended up building a tool around it",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uh2evc/i_built_a_1click_local_ai_background_remover/",
+      "pushed_at": "2026-06-28",
+      "title": "I built a 1-Click local AI Background Remover + Photo Editor with 40+ filters, cropping & layering (Free & 100% Offline, no ads, no accounts, no bs)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uh8zay/just_hit_1_month_with_my_side_project_saas_11/",
+      "pushed_at": "2026-06-28",
+      "title": "Just hit 1 month with my side project SaaS. 11 paying users. First time something doesn't completely fail!",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uhcttf/mistikguard_lightweight_python_library_for_memory/",
+      "pushed_at": "2026-06-28",
+      "title": "Mistikguard – Lightweight Python library for memory integrity in LLM applications",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uh3zgp/i_built_an_iphone_meeting_transcriber_that_runs/",
+      "pushed_at": "2026-06-28",
+      "title": "I built an iPhone meeting transcriber that runs fully on the phone, no cloud, no account",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/shirozuki/claude-cli",
+      "pushed_at": "2026-06-28",
+      "title": "Show HN: Claude-CLI – Run Claude Code in a throwaway Docker container",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/kageroumado/adrafinil",
+      "pushed_at": "2026-06-28",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uh8ir7/even_google_still_believes_in_small_models_for/",
+      "pushed_at": "2026-06-28",
+      "title": "Even Google still believes in small models for coding.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhcy02/if_it_doesnt_make_my_pp_better_i_dont_want_it/",
+      "pushed_at": "2026-06-28",
+      "title": "If it doesn't make my PP better, I don't want it",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uh8r1j/running_glm52_on_budget_hardware_2500/",
+      "pushed_at": "2026-06-28",
+      "title": "Running GLM5.2 on budget hardware < $2500.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhevvf/model_registry_torrents_for_open_models_using/",
+      "pushed_at": "2026-06-28",
+      "title": "Model Registry: Torrents for open models using Hugging Face as a fallback web seed.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugyqsi/96_gig_5090s_from_shenzhens_huaqiangbei/",
+      "pushed_at": "2026-06-28",
+      "title": "96 gig 5090s from Shenzhen's Huaqiangbei",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhfg05/i_built_a_tool_to_turn_your_claude_code_sessions/",
+      "pushed_at": "2026-06-28",
+      "title": "I built a tool to turn your Claude Code sessions into fine-tuning data for local models",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhakvq/does_quantizing_change_the_mtp_draft_rate/",
+      "pushed_at": "2026-06-28",
+      "title": "Does quantizing change the MTP draft rate?",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugyvz4/orthrus_diffusion_head_trained_qwen_3536_and/",
+      "pushed_at": "2026-06-28",
+      "title": "Orthrus (diffusion head) trained Qwen 3.5/3.6 and Gemma 4 models are dropping soon",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhfeqw/full_document_redaction_with_qwen_36_27b_with_a/",
+      "pushed_at": "2026-06-28",
+      "title": "Full document redaction with Qwen 3.6 27B with a Pi agent harness",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/mauriceboe/TREK",
+      "pushed_at": "2026-06-28",
+      "title": "mauriceboe/TREK",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "pushed_at": "2026-06-28",
+      "title": "aws/agent-toolkit-for-aws",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+      "pushed_at": "2026-06-28",
+      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3871117388174336?f=rss",
+      "pushed_at": "2026-06-28",
+      "title": "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1670225?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-28",
+      "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
+      "score": 9
     }
   ]
 }
