@@ -11771,6 +11771,108 @@
       "pushed_at": "2026-06-28",
       "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
       "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ui8gjr/i_kept_running_into_the_same_problem_my_teams_ai/",
+      "pushed_at": "2026-06-29",
+      "title": "I kept running into the same problem: my team's AI context lived in plans.md / claude.md / spec files, but there was no good way to co-edit them, and agents only ever saw old pasted snapshots. So I fixed it building easymd, completely free",
+      "score": 7
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48712130",
+      "pushed_at": "2026-06-29",
+      "title": "Show HN: Selixes - Self-hosted LLM failover gateway, budget caps and PII",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/hugohe3/ppt-master",
+      "pushed_at": "2026-06-29",
+      "title": "hugohe3/ppt-master",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uhz2z1/most_free_tv_remote_apps_make_you_pay_a_weekly/",
+      "pushed_at": "2026-06-29",
+      "title": "Most \"free\" TV remote apps make you pay a weekly subscription. So I built one that's actually free — and it auto-skips Netflix intros by watching your screen with the camera.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ui98yd/i_built_an_offline_qa_chatbot_for_my_university/",
+      "pushed_at": "2026-06-29",
+      "title": "I built an offline Q&A Chatbot for my University using FastAPI and BM25 (No heavy LLMs required!)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uicmwt/i_quit_a_lucrative_cryptopromo_gig_to_build_an_ai/",
+      "pushed_at": "2026-06-29",
+      "title": "I quit a lucrative crypto-promo gig to build an AI fitness coach that roasts you instead of lying to you",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/loopedautomation/whisper",
+      "pushed_at": "2026-06-29",
+      "title": "Show HN: Looped Whisper (FOSS) – Voice transcription menubar app for macOS",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/commaai/openpilot",
+      "pushed_at": "2026-06-29",
+      "title": "commaai/openpilot",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "pushed_at": "2026-06-29",
+      "title": "Fission-AI/OpenSpec",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3873481579746561?f=rss",
+      "pushed_at": "2026-06-29",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3873468605764873?f=rss",
+      "pushed_at": "2026-06-29",
+      "title": "AI短剧成为行业主流，流量成本持续走高",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ui72so/got_my_first_paying_user_today_and_i_genuinely/",
+      "pushed_at": "2026-06-29",
+      "title": "Got my first paying user today and I genuinely couldn't believe it at first. Thank you all.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uiavho/christine_portable_governed_ai_operator_tested/",
+      "pushed_at": "2026-06-29",
+      "title": "Christine - Portable governed AI operator tested across airports and airplane mode",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uhsffc/i_built_a_naturallanguage_search_engine_for/",
+      "pushed_at": "2026-06-29",
+      "title": "I built a natural-language search engine for finding the perfect Greek beach",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "pushed_at": "2026-06-29",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "pushed_at": "2026-06-29",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "pushed_at": "2026-06-29",
+      "title": "anomalyco/opencode",
+      "score": 4
     }
   ]
 }
