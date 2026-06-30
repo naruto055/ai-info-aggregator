@@ -11873,6 +11873,150 @@
       "pushed_at": "2026-06-29",
       "title": "anomalyco/opencode",
       "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uilmoc/i_built_a_saas_that_generated_6k_in_revenue_in_30/",
+      "pushed_at": "2026-06-30",
+      "title": "I built a SaaS that generated 6k in revenue in 30 days after 10 years of failures and ~20 products",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uiucrd/i_tried_chat_uploads_and_qa_for_my_app_onboarding/",
+      "pushed_at": "2026-06-30",
+      "title": "I tried chat uploads and Q&A for my app onboarding, then built a Severance style MDR instead",
+      "score": 5
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+      "pushed_at": "2026-06-30",
+      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+      "score": 9
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+      "pushed_at": "2026-06-30",
+      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "pushed_at": "2026-06-30",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/GuglielmoCerri/khazad",
+      "pushed_at": "2026-06-30",
+      "title": "Show HN: Khazad – Transparent Semantic Cache for LLM Calls on Redis Vector Sets",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uimjdi/glm_52_q1_s_vs_qwen_27b_q8/",
+      "pushed_at": "2026-06-30",
+      "title": "GLM 5.2 Q1_S vs Qwen 27B Q8",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uisspl/nasa_testing_local_llm_inference_for_future_space/",
+      "pushed_at": "2026-06-30",
+      "title": "NASA testing local LLM inference for future space missions",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uiuyyp/going_from_single_gpu_to_dual_gpu_is_nice_but_not/",
+      "pushed_at": "2026-06-30",
+      "title": "Going from single GPU to dual GPU is nice but not in the way I expected",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj4ojm/ornith_35b_works_reasonably_well_with_qwen36_35b/",
+      "pushed_at": "2026-06-30",
+      "title": "Ornith 35B works reasonably well with Qwen3.6 35B DFlash speculative model",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uiueqw/bolt_graphics_gpu_will_have_2_ddr5_laptop_dimm/",
+      "pushed_at": "2026-06-30",
+      "title": "Bolt Graphics GPU will have 2 DDR5 laptop DIMM slots",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj0705/qwen3ttscpp_compose_desktop_gui/",
+      "pushed_at": "2026-06-30",
+      "title": "Qwen3-tts.cpp + Compose Desktop GUI",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/cupy/cupy",
+      "pushed_at": "2026-06-30",
+      "title": "cupy/cupy",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "pushed_at": "2026-06-30",
+      "title": "altic-dev/FluidVoice",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/usestrix/strix",
+      "pushed_at": "2026-06-30",
+      "title": "usestrix/strix",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/browser-use/video-use",
+      "pushed_at": "2026-06-30",
+      "title": "browser-use/video-use",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "pushed_at": "2026-06-30",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "pushed_at": "2026-06-30",
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "pushed_at": "2026-06-30",
+      "title": "AI agents are not your “coworkers”",
+      "score": 8
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "pushed_at": "2026-06-30",
+      "title": "Agent confidence on the technical frontier",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "pushed_at": "2026-06-30",
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3873710996902912?f=rss",
+      "pushed_at": "2026-06-30",
+      "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3873706225751296?f=rss",
+      "pushed_at": "2026-06-30",
+      "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3873681978840071?f=rss",
+      "pushed_at": "2026-06-30",
+      "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
+      "score": 7
     }
   ]
 }
