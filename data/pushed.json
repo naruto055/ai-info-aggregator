@@ -12179,6 +12179,222 @@
       "pushed_at": "2026-07-01",
       "title": "Anthropic推出Claude Science AI科研工作台",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ukyvzb/i_built_an_ai_agent_that_fills_job_applications/",
+      "pushed_at": "2026-07-02",
+      "title": "I built an AI agent that fills job applications for me — it got me interviews at Cohere and Scale AI. I review and submit every one myself.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ukmer8/ive_been_doing_free_reads_of_founders_homepages/",
+      "pushed_at": "2026-07-02",
+      "title": "i've been doing free reads of founders' homepages. the same 3 things keep killing signups.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ukfiww/built_a_reading_platform_that_keeps_ai_notes_and/",
+      "pushed_at": "2026-07-02",
+      "title": "Built a reading platform that keeps AI, notes, and vocabulary in one place",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ukxln3/vibe_coded_an_app_to_help_you_vibe_code_your_app/",
+      "pushed_at": "2026-07-02",
+      "title": "Vibe coded an app to help you vibe code your app",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ul0own/i_can_run_claude_code_from_my_garmin_watch_now/",
+      "pushed_at": "2026-07-02",
+      "title": "I can run Claude Code from my Garmin watch now",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ul0h7u/i_built_an_app_for_thai_restaurant_owners_snap_a/",
+      "pushed_at": "2026-07-02",
+      "title": "I built an app for Thai restaurant owners snap a receipt and AI logs the expense. 2 months and 191 commits in, here's what I learned",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ukzueu/i_built_email_read_receipts_that_dont_rat_you_out/",
+      "pushed_at": "2026-07-02",
+      "title": "I built email read receipts that don't rat you out — launched this week, looking for my first 10 users",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ukzr3i/webgraph_explore_a_website/",
+      "pushed_at": "2026-07-02",
+      "title": "WebGraph - Explore a Website",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ukvlf8/i_built_a_full_operating_system_for_working_djs/",
+      "pushed_at": "2026-07-02",
+      "title": "I built a full operating system for working DJs. Sharing what it does, and it is looking for a new owner",
+      "score": 6
+    },
+    {
+      "url": "https://www.therundown.ai/p/sonnet-5-ships-as-washington-frees-fable",
+      "pushed_at": "2026-07-02",
+      "title": "Sonnet 5 ships as Washington frees Fable",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/autoresearch-introspection",
+      "pushed_at": "2026-07-02",
+      "title": "Autoresearch: The feedback loop behind self-improving agents",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+      "pushed_at": "2026-07-02",
+      "title": "How Cursor deploys AI inside the enterprise",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "pushed_at": "2026-07-02",
+      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/software-factories",
+      "pushed_at": "2026-07-02",
+      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "pushed_at": "2026-07-02",
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/torontodeveloper/job-application-agent",
+      "pushed_at": "2026-07-02",
+      "title": "Show HN:An AI agent that applies to jobs for me (Playwright,GPT5.4 form filling)",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/clidey/deptrust",
+      "pushed_at": "2026-07-02",
+      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/ymichael/bb",
+      "pushed_at": "2026-07-02",
+      "title": "Show HN: An Open Source Codex App that works across provider",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "pushed_at": "2026-07-02",
+      "title": "diegosouzapw/OmniRoute",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/google/agents-cli",
+      "pushed_at": "2026-07-02",
+      "title": "google/agents-cli",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/ogulcancelik/herdr",
+      "pushed_at": "2026-07-02",
+      "title": "ogulcancelik/herdr",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "pushed_at": "2026-07-02",
+      "title": "Robbyant/lingbot-map",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "pushed_at": "2026-07-02",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "pushed_at": "2026-07-02",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "pushed_at": "2026-07-02",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "score": 6
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "pushed_at": "2026-07-02",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "score": 6
+    },
+    {
+      "url": "https://www.marketingaiinstitute.com/blog/podcast-ai-agents-for-data-analysis",
+      "pushed_at": "2026-07-02",
+      "title": "This Is How Marketers Can Use AI Agents for Data Analysis",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3877109751803904?f=rss",
+      "pushed_at": "2026-07-02",
+      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3877060559433984?f=rss",
+      "pushed_at": "2026-07-02",
+      "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3877057215393793?f=rss",
+      "pushed_at": "2026-07-02",
+      "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3877054691930118?f=rss",
+      "pushed_at": "2026-07-02",
+      "title": "硬氪首发 | 全球首款近视老花智能变焦眼镜企业融资数千万，韶音、高秉强押注",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3877047915475200?f=rss",
+      "pushed_at": "2026-07-02",
+      "title": "硬氪首发 | 牛津博士创业抗衰老药物，Monolith领投，同步研究宠物药和人药",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3877043321237504?f=rss",
+      "pushed_at": "2026-07-02",
+      "title": "AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/p/3877035735740673?f=rss",
+      "pushed_at": "2026-07-02",
+      "title": "硬氪首发 | 前存储上市公司老将带队做AI超算设备，年营收已达数千万",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1670577?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-02",
+      "title": "大规模封号后，Claude 突然发布更便宜的新模型",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1670595?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-02",
+      "title": "胡彦斌，你以后Vibe Coding 不用抱电脑了",
+      "score": 6
     }
   ]
 }
